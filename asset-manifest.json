@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/bootstrapapp/static/css/main.8d21c2a0.css",
+    "main.js": "/bootstrapapp/static/js/main.4ba1cd00.js",
+    "static/js/787.db4c9050.chunk.js": "/bootstrapapp/static/js/787.db4c9050.chunk.js",
+    "static/media/slidimg.png": "/bootstrapapp/static/media/slidimg.151c3d07bbb8f65e3e09.png",
+    "static/media/bootstrap-icons.woff?": "/bootstrapapp/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/bootstrapapp/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/slideimg1.png": "/bootstrapapp/static/media/slideimg1.53f47ea974c06703c110.png",
+    "static/media/slidimg2.png": "/bootstrapapp/static/media/slidimg2.90620c81f4fb12eb0078.png",
+    "static/media/hot.png": "/bootstrapapp/static/media/hot.beeb3a9579c6bb8ec54b.png",
+    "static/media/slid11.png": "/bootstrapapp/static/media/slid11.95a8b30bedb24641620b.png",
+    "static/media/logo.png": "/bootstrapapp/static/media/logo.f638b62d1427d0e4695f.png",
+    "static/media/mix.jpg": "/bootstrapapp/static/media/mix.1b0f0d2693daa06e3bfb.jpg",
+    "static/media/slid22.png": "/bootstrapapp/static/media/slid22.f26c2af325bf77dc9c10.png",
+    "static/media/guvar.jpg": "/bootstrapapp/static/media/guvar.6f24c0c0ae728674ea0d.jpg",
+    "static/media/ix.jpg": "/bootstrapapp/static/media/ix.05a678e8a0c9f6558529.jpg",
+    "static/media/brinjal.jpg": "/bootstrapapp/static/media/brinjal.4379fa31209e7519d95a.jpg",
+    "static/media/annar.jpg": "/bootstrapapp/static/media/annar.c30391b95ea0d034c370.jpg",
+    "static/media/dragan.jpg": "/bootstrapapp/static/media/dragan.12f09b1b509749ae7d8b.jpg",
+    "static/media/onion.jpg": "/bootstrapapp/static/media/onion.59aed83bfc0954fbaa35.jpg",
+    "static/media/dry frut.jpg": "/bootstrapapp/static/media/dry frut.fd402b6333cb591d2c53.jpg",
+    "static/media/slick.svg": "/bootstrapapp/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/bootstrapapp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/bootstrapapp/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/bootstrapapp/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/bootstrapapp/index.html",
+    "main.8d21c2a0.css.map": "/bootstrapapp/static/css/main.8d21c2a0.css.map",
+    "main.4ba1cd00.js.map": "/bootstrapapp/static/js/main.4ba1cd00.js.map",
+    "787.db4c9050.chunk.js.map": "/bootstrapapp/static/js/787.db4c9050.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d21c2a0.css",
+    "static/js/main.4ba1cd00.js"
+  ]
+}
