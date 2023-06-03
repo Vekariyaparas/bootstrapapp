@@ -1,0 +1,63 @@
+body{
+    margin: 0%;
+    padding: 0% !important;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none !important;
+}
+.bi{
+    margin-left: 3px !important;
+}
+.navimg{
+    width: 20px;
+    height: 30px;
+}
+li{
+    display: inline-block;
+}
+li a{
+    padding: 10px 5px;
+    color: black;
+}
+li a:hover{
+    color: black;
+}
+.sld{
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('images/slid22.png') no-repeat !important;
+    background-size: 100% 100% !important;
+}
+.cng{
+    margin-top: 19%;
+    margin-left: 25%;
+}
+.cng1{
+    margin-left: 25%;
+}
+.sldbk{
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)),url('images/slid11.png') no-repeat !important;
+    background-size: 100% 100% !important;
+}
+.size{
+    width: 450px !important;
+    height: 300px !important;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.size1{
+    width: 450px !important;
+    height: 300px !important;
+    margin-top: 14%;
+    margin-bottom: 10%;
+}
+.small{
+    width: 100px !important;
+    height: 80px !important;
+}
+.badge-pill{
+    top: -6px !important;
+    left: 6px !important;
+    width: 15px !important;
+    height: 15px !important;
+    padding: 1px !important;
+}
